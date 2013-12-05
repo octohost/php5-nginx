@@ -17,7 +17,7 @@ RUN echo "cgi.fix_pathinfo = 0;" >> /etc/php5/fpm/php.ini
 RUN echo "daemon off;" >> /etc/nginx/nginx.conf
 RUN mkdir /var/www
 RUN echo "<?php phpinfo(); ?>" > /var/www/phpinfo.php
-ADD ./index.php /var/www
+ADD ./index.php /var/www/
 
 EXPOSE 80
 
