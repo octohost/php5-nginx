@@ -66,7 +66,7 @@
       </div>
 
       <div class="footer">
-        <p>&copy; <a href="http://www.nonfiction.ca/" title="nonfiction studios - Home">nonfiction</a> 2013</p>
+        <div style="float:left;">&copy; <a href="http://www.nonfiction.ca/" title="nonfiction studios - Home">nonfiction</a> 2013</div><div style="float:right;"><a href="https://twitter.com/octohost" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @octohost</a></div>
       </div>
 
     </div> <!-- /container -->
