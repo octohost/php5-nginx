@@ -34,7 +34,7 @@
       </div>
 
       <div class="jumbotron">
-        <a href="https://github.com/octohost/octohost"><img src="http://github.froese.org/assets/octohost/octohost-300-words.png" class="img-responsive" width="250" height="250" align="right" /></a>
+        <a href="https://github.com/octohost/octohost"><img src="http://github.froese.org/assets/octohost/octohost-300-words.png" class="img-responsive" width="200" height="200" align="right" /></a>
         <h1>PHP5 / nginx</h1>
         
         <p class="lead"><a href="http://www.php.net/" title="PHP: Hypertext Preprocessor">PHP5</a> with <a href="http://nginx.org/" title="nginx news">nginx</a> running on <a href="https://github.com/octohost/octohost">octohost</a>.</p>
@@ -47,7 +47,7 @@
           <p>Add a <a href="http://docs.docker.io/en/latest/use/builder/" title="Dockerfiles for Images - Docker Documentation">Dockerfile</a> to your app's repository. Then git push to the octohost server. <a href="https://github.com/octohost">Examples here.</a></p>
 
           <h4>Flexible</h4>
-          <p><a href="https://github.com/octohost/octohost/blob/master/README.md">Don't see a language you use?</a> They're really easy to add.</p>
+          <p><a href="http://www.octohost.io/languages">Don't see a language you use?</a> They're really easy to add.</p>
 
           <h4>Extendible</h4>
           <p><a href="https://github.com/octohost/octohost/issues">We're just getting started</a>.</p>
