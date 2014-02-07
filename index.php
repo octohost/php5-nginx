@@ -8,11 +8,11 @@
     <meta name="author" content="">
     <title>PHP5 / nginx on octohost</title>
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
     
     <!-- Custom styles for this template -->
-    <link href="http://github.froese.org/assets/octohost/jumbotron-narrow.css" rel="stylesheet">
-    <link href="http://github.froese.org/assets/octohost/octohost.css" rel="stylesheet">
+    <link href="https://ssl.octohost.io/assets/octohost/jumbotron-narrow.css" rel="stylesheet">
+    <link href="https://ssl.octohost.io/assets/octohost/octohost.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -27,18 +27,18 @@
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li class="active"><a href="/">Home</a></li>
-          <li><a href="http://www.octohost.io">About</a></li>
-          <li><a href="http://www.octohost.io/contact">Contact</a></li>
+          <li><a href="https://www.octohost.io">About</a></li>
+          <li><a href="https://www.octohost.io/">Contact</a></li>
         </ul>
         <h3 class="text-muted">octohost</h3>
       </div>
 
       <div class="jumbotron">
-        <a href="https://github.com/octohost/octohost"><img src="http://github.froese.org/assets/octohost/octohost-300-words.png" class="img-responsive" width="200" height="200" align="right" /></a>
+        <a href="https://www.octohost.io"><img src="https://ssl.octohost.io/assets/octohost/octohost-300-words.png" class="img-responsive" width="200" height="200" align="right" /></a>
         <h1>PHP5 / nginx</h1>
         
-        <p class="lead"><a href="http://www.php.net/" title="PHP: Hypertext Preprocessor">PHP5</a> with <a href="http://nginx.org/" title="nginx news">nginx</a> running on <a href="https://github.com/octohost/octohost">octohost</a>.</p>
-        <p><a class="btn btn-lg btn-success" href="https://github.com/octohost/octohost" role="button">Use it Free</a></p>
+        <p class="lead"><a href="http://www.php.net/" title="PHP: Hypertext Preprocessor">PHP5</a> with <a href="http://nginx.org/" title="nginx news">nginx</a> running on <a href="https://www.octohost.io">octohost</a>.</p>
+        <p><a class="btn btn-lg btn-success" href="https://www.octohost.io" role="button">Use it Free</a></p>
       </div>
 
       <div class="row marketing">
@@ -47,7 +47,7 @@
           <p>Add a <a href="http://docs.docker.io/en/latest/use/builder/" title="Dockerfiles for Images - Docker Documentation">Dockerfile</a> to your app's repository. Then git push to the octohost server. <a href="https://github.com/octohost">Examples here.</a></p>
 
           <h4>Flexible</h4>
-          <p><a href="http://www.octohost.io/languages">Don't see a language you use?</a> They're really easy to add.</p>
+          <p><a href="https://www.octohost.io/languages.html">Don't see a language you use?</a> They're really easy to add.</p>
 
           <h4>Extendible</h4>
           <p><a href="https://github.com/octohost/octohost/issues">We're just getting started</a>.</p>
@@ -61,7 +61,7 @@
           <p>Very simple baby PaaS - git push to deploy your websites as needed.</p>
 
           <h4>Open Source</h4>
-          <p><a href="https://github.com/octohost/octohost">Available</a> to try, use, deploy, extend at no cost.</p>
+          <p><a href="https://www.octohost.io">Available</a> to try, use, deploy, extend at no cost.</p>
         </div>
       </div>
 
@@ -75,7 +75,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Latest compiled and minified JavaScript -->
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
-    <script src="http://github.froese.org/assets/octohost/ga.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+    <script src="https://ssl.octohost.io/assets/octohost/ga.js"></script>
   </body>
 </html>
