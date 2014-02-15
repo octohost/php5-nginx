@@ -1,8 +1,7 @@
 server {
-    listen 80 default_server;
-    listen [::]:80 default_server ipv6only=on;
+    listen 80 default_server backlog=2048;
 
-    root /var/www;
+    root /srv/www;
     index index.html index.php;
 
     # Make site accessible from http://localhost/
