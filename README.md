@@ -20,5 +20,3 @@ cd php5-nginx
 git remote add octohost git@ip.address.here:php5-nginx.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://php5-nginx.octohost.io](http://php5-nginx.octohost.io)
